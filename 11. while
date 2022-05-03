@@ -1,0 +1,9 @@
+#nilsi sesl j =0
+j = 0
+
+#ketika k kurang dari 6 lakukan perulangan, jika todak stop perulangan
+while j<6:
+	#lakukan perintah ini ketika perulangan
+	print("Ini adalah perulangan ke -",j)
+	#setiap kali diakhir perulangan update nilai dengan ditambah 1.
+	j=j+1
